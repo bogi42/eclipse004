@@ -1,0 +1,35 @@
+/encoding=utf-8
+
+# technical terms
+spelllang
+en_gb
+
+# Character names
+Nachtmoor
+Aurelius
+Aury
+Caius
+Adderkin
+Kraken
+Garrik
+Elara
+Lyra
+Dawson
+Recordkeeper
+Samarund
+Samaretz
+Brok
+Velarash
+Grimaldy
+
+# specific terms
+dwarven
+dragonnapped
+Aether
+starship
+nightelf
+nightelves
+
+# run commands with F2 
+:Gwr
+:mkspell! ~/.vim/spell/eclipse.utf-8.spl wortliste

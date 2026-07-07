@@ -1,0 +1,314 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: "Philosopher";
+	font-style: normal;
+	font-weight: normal;
+	src: url('../font/phil.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: "Philosopher";
+	font-style: normal;
+	font-weight: bold;
+	src: url('../font/phil_b.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: "Philosopher";
+	font-style: italic;
+	font-weight: normal;
+	src: url('../font/phil_i.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: "oxanium";
+	src: url('../font/oxanium.woff2') format('woff2');
+}
+
+body {
+  font-family: "Philosopher", 'Calibri', serif; 
+  color: black;
+  background: white;
+  font-size: 1em;
+}
+
+/***************************************************************************/
+/*   headings   ************************************************************/
+/***************************************************************************/
+h1 {
+	text-transform: uppercase;
+	padding: 0.25em 0em;
+  margin-top: 0.5em;
+  margin-left: 1em;
+  margin-right: 1em;
+	margin-bottom: 2em;
+	font-weight: bold;
+	font-size: 140%;
+	text-align:center;
+	font-family: "Philosopher";
+  display:block;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+h2 {
+	text-transform: uppercase;
+	padding: 0.25em 0em;
+  margin: 0.25em 2em;
+	font-weight: bold;
+	font-size: 120%;
+	text-align:left;
+	font-family: "Philosopher";
+  display:block;
+  border-bottom: 2px dotted black;
+}
+
+/***************************************************************************/
+/*  paragraphs       *******************************************************/
+/***************************************************************************/
+p {
+	text-indent: 1.5em;
+	margin-top: 0.0em;
+	margin-bottom: 0.0em;
+}
+
+/* first paragraph after a heading (1 or 2) has no intent, but a margin on top! */ 
+h1 + p {
+  text-indent: 0em;
+  margin-top: 2em;
+}
+
+h2 + p {
+  text-indent: 0em;
+  margin-top: 2em;
+}
+
+/* first letter in the first paragraph after a heading (1 or 2) has a special format */ 
+h1 + p::first-letter {
+	float: left;
+	font-family: "Philosopher", 'Calibri', serif;
+	font-size: 4em;
+	font-weight: 500;
+	line-height: 0.85em;
+  padding: 0 0.1em 0 0;
+  margin-top: 0.1em;
+  margin-right: 0.05em;
+  margin-bottom: -0.1em;
+	vertical-align: middle;
+}
+
+h2 + p::first-letter {
+	float: left;
+	font-family: "Philosopher", 'Calibri', serif;
+	font-size: 4em;
+	font-weight: 500;
+	line-height: 0.85em;
+  padding: 0 0.1em 0 0;
+  margin-top: 0.1em;
+  margin-right: 0.05em;
+  margin-bottom: -0.1em;
+	vertical-align: middle;
+}
+
+
+/* first paragraph after a horizontal line (and first letter in that paragraph) behave exactly the
+ * same like after a heading 1 */
+
+hr + p {
+  text-indent: 0em;
+}
+
+hr + p::first-letter {
+	float: left;
+	font-family: "Philosopher", 'Calibri', serif;
+	font-size: 2.5em;
+	font-weight: 500;
+	line-height: 0.85em;
+  padding: 0 0.1em 0 0;
+  margin-top: 0.1em;
+  margin-right: 0.05em;
+  margin-bottom: -0.1em;
+	vertical-align: middle;
+}
+
+
+/***************************************************************************/
+/*  list items  *******************************************************/
+/***************************************************************************/
+
+li {
+	list-style-type: square;
+	font-family: "oxanium", monospace;
+}
+
+/* But not as a footnote! */
+*.footnotes > ol > li {
+  font-family: "Philosopher", 'Calibri', serif;
+  list-style-type: decimal;
+  margin-left: -0.5em;
+}
+*.footnotes > ol > li > p  {
+  text-indent: 0em;
+}
+*.footnotes > ol > li > p > a {
+  margin-left: 0.5em;
+}
+
+/***************************************************************************/
+/*  underlined  *******************************************************/
+/***************************************************************************/
+
+*.u {
+	display: inline;
+	margin: 0;
+	padding: 0px;
+	/*font-weight: bold;*/
+	font-size: 110%;
+	border-top: dashed darkgrey 2px;
+	border-bottom: dashed darkgrey 2px;
+}
+*.u::before {
+	content:"";
+	display:block;
+	padding: 0;
+	margin: 0;
+	margin-top: 0.5em;
+}
+
+/***************************************************************************/
+/*  status  *******************************************************/
+/***************************************************************************/
+
+div.line-block {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-right: 2em;
+  font-family: "oxanium", courier, fixed, monospace;
+  background-color:#E9ECEF;
+  border: 1px solid #808080;
+	border-left: 1px solid #888;
+	border-top: 1px solid #888;
+	-moz-box-shadow: 5px 5px 5px #343A40;
+	-webkit-box-shadow: 5px 5px 5px #343A40;
+	-box-shadow: 5px 5px 5px #343A40;
+  text-indent: 0em;
+  padding-left: 0.5em;
+}
+
+.line-block > p {
+  text-indent: 0em;
+}
+
+/***************************************************************************/
+/*  separator        *******************************************************/
+/***************************************************************************/
+hr {
+  border: none;
+  border-top: 2px solid #2a2a2a; /* staubiges Anthrazit */
+  height: 2px;
+  margin: 2em 8em;
+  text-align: center;
+  overflow: visible;
+}
+
+/* put a nice symbol into the separator */
+hr::after {
+  content: "⚙"; /* Ein technisches Symbol, Zahnrad */
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-family: "Arial", serif;
+  font-size: 1.2em;
+  padding: 0 0.25em;
+  background: white; /* Überdeckt die Linie in der Mitte */
+  color: #2a2a2a;
+}
+
+/* first paragraph after a separator also has no intent */
+hr + p {
+  text-indent: 0em;
+}
+
+
+/*********************************************
+ * Abstrakt / Zusammenfassung
+ * 
+ * sollte so verwendet werden: 
+ 
+::: {.section .abstract epub:type="abstract"}
+Zusammenfassung
+:::
+
+*************************************************/
+
+*.abstract {
+  font-size: 100%;
+  color: #000000;
+  margin-top: 1em;
+}
+
+.abstract > p {
+  text-indent: 0em;
+  margin-top: 0.5em;
+}
+
+/***************************************************************************/
+/*  title formats ********************************************************/
+/***************************************************************************/
+
+*.title-author {
+  font-size: 120%;
+	text-transform: uppercase;
+  margin-top: 3em;
+  text-align: center;
+}
+
+*.title-title {
+  font-size: 150%;
+  margin-top: 1em;
+  text-align: center;
+}
+
+*.title-subtitle {
+  font-size: 110%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+  font-style: italic;
+}
+
+*.title-legal {
+  position: fixed;
+  bottom: 0em;
+  margin-left: 4em;
+  margin-right: 4em;
+  font-size: 80%;
+}
+
+.title-legal > p {
+  text-indent: 0;
+  margin-top: 1em;
+  margin-left: 0em;
+  font-family: "oxanium", monospace;
+}
+
+/***** Sonder-Span für den Druck von Fußnoten-Links (die Nummerierung) - span.fnl ändert die
+ * Schriftart für den Sub und die Größe ein wenig. */
+
+span.fnl > sup {
+  color: #2a2a2a;
+  font-size: 100%;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+}
+
+span.fnl > sup::before {
+  content: "[";
+}
+
+span.fnl > sup::after {
+  content: "]";
+}

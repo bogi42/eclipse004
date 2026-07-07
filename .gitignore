@@ -1,0 +1,13 @@
+*.url
+*.epub
+*.pdf
+*.swp
+Alaric*.html
+.~lock*
+EPUB
+*.tmp
+chapter*.md
+custom.spl
+session.vim
+old_md/
+*.session
