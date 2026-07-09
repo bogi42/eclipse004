@@ -25,7 +25,7 @@ Being rejected by my fellow humans–and then again by the orcs on Samarund–ha
 a bitter taste on my tongue. I can still feel the bitterness in me rising when I remember
 those times. With it comes a doubt, a devil that whispers to me that I will never belong.
 
-*You don't belong to us.* Now here's a sentence I've heard fairly regularly, especially
+*You don't belong to us.* Now, here's a sentence I've heard fairly regularly, especially
 during my teenager years. But here and now? I have a feeling that belonging is no longer
 a pipe dream, but something that's achievable for me. I just can't mess this up.
 
@@ -48,7 +48,7 @@ album cover from Blue Öyster Cult.
 Man, I miss music. The multiverse must be full of bad people because so far, I have yet
 to stumble upon a streaming service for music.
 
-All the members of the council behind me gasp audibly for ear, and there's a loud *thud*
+All the members of the council behind me gasp audibly for fear, and there's a loud *thud*
 as the gentleman next to the already unconscious woman loses his consciousness and puts his
 forehead to the table. I can't help but to smirk a little bit: During the early
 integration, I regularly lost consciousness. Of course, I never did so simply because
@@ -60,7 +60,7 @@ I can see they're all afraid. They glance at me like I've come to kill their fir
 children. Except for Lyra and Brok, of course.
 
 At this point, something totally unexpected happens, as I receive a message from the
-System. It's a rare one, at least in the last months:
+System. It's a rare one, at least in the last few months:
 
 ::: line-block
 [**New Title:** Now you've done it]{.u}
@@ -94,5 +94,73 @@ conflict raging, and also like the perfect place to start.
 I grip my scythe harder and move that way.
 
 -----
+
+The fighting at the wall is well underway. Surprisingly, there's a rather big hole gaping
+in the wall. Not gigantic, but big nonetheless. The fact it even exists is what surprises
+me: Who possesses enough power to burn a hole through these walls? Surprising–and scary.
+The hole is symmetrical, a perfect circle with a smooth edge. Not what I would have
+expected to see if someone had used explosions. And the edge is glowing in a deep,
+threatening black with a tint of purple. 
+
+Some kind of energy weapon?
+
+Indeed, there's an enemy soldier in body armour as dark as the night. He's hosting
+a big-ass weapon on his shoulder that looks like the love-child between a rocket-propelled
+grenade launcher and a Tesla coil. Just looking at that thing has the fine hairs on my
+neck stand on end. Whatever it is, it's now top spot on my “list of things to avoid”,
+that's for sure.
+
+Which is partially because that the weapon did not simply punch a hole into the
+wall, no–there's no debris to be found anywhere. It's a pretty good indicator to the
+weapon’s power and shows that in probably annihilated that part of the wall. With
+a diameter of around four metres, which is astonishing in a terrifying way.
+
+The wall is trying to repair itself, but it does so at the speed of continental drift. If
+I were to hazard a guess, I'd say it's the lingering energy on the edge that's holding
+back the wall’s repair mechanism.
+
+To my left, one of the automatic turret is firing into the horde outside the wall. Those
+soldiers create overlapping energy shields with mixed results, as far as I can see: They
+still get killed, but in way fewer numbers than I would have expected. The turret on my
+right, though, is spewing sparks of electricity instead of bullets. I guess it has been
+damaged and needs to be repaired.
+
+Some enemy combatants have cleared the hole and made it inside. They keep the pressure on
+the defendants, and I can clearly feel the shadows working inside those people. It's only
+a puddle compared to the lake within me, but it's unmistakably there.
+
+I'm reminded of Mike, contaminated with shadows and begging me to end his life before he
+fully transforms. Those enemy soldiers are probably what happens if the transformation is
+not stopped. I'm not even sure if the original individuals are still alive inside those
+beasts. The enemy combatants snarl and grow like wild animals, their faces contorted
+masks. But they're strong and not to be underestimated.
+
+The defendants are really neck deep into the shit. I can help them, but as long as that
+hole is still there, it won't be enough. There's a seemingly endless supply of combatants
+outside the wall, and those soldiers with their overlapping shields are generating
+a tunnel for new enemies to approach the gap in the wall.
+
+Looking at that lingering energy on the edge, I have an idea. It's probably a stupid one,
+but I activate Phantom Reclamation nonetheless. The skills hums through my veins, but
+seems to be irritated–I haven't selected a valid target for it. The skill doesn't want to
+do it, but I firmly point unto the edge of the breech.
+
+My skill tries to throw a tantrum, but I'm adamant about it. Finally, the resistance
+vanishes and the skill activates. For the first time ever, doing so *burns* me from
+within. I think that's due to my modified targeting parameters, but I don't have the
+luxury to mull over it.
+
+Instead, the skill rips out the energy from the breech and pulls it within me. While doing
+so, I realize my mistake: That energy is denser than the shadows within those soldiers.
+Orders of magnitude denser, and it threatens to overwhelm me from within. There's a small
+hint of authority being taken from the edge, too, but once more, I can't think about it.
+
+I have to take a knee while agony is riding me. There's a pressure building behind my eyes
+that feels like it tries to explode my head from within. I pinch my eyes while the fight
+within my body rages on. I can literally hear the crunching of the ouroboros within my
+Soul as it engages the invading energies. My eclipse energy wins the battle, but it leaves
+me in a bad state. I feel burned out and empty.
+
+Memo to myself: Don't do that again.
 
 [modeline]: vim: spelllang=en_gb,eclipse:
