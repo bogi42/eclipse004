@@ -32,6 +32,26 @@ nightelves
 Blue Öyster Cult
 ouroboros
 
+# Spells
+Umbral Judgement
+Umbral Volley
+Shadow Nova
+Umbral Chains
+Call of the Shadows
+Healing Light
+Healing Touch
+Umbral Lance
+Verdict of Suspicion
+
+# Skills
+Phantom Reclamation
+Umbral Journey
+Shadow Infusion
+Shadow Decoy
+Shadow Switch
+Nether Shroud
+Equinox Reaver
+
 # run commands with F2 
 :Gwr
 :mkspell! ~/.vim/spell/eclipse.utf-8.spl wortliste

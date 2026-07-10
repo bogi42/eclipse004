@@ -3,7 +3,7 @@
 
 This book uses the fonts “Oxanium” and “Philosopher”. Oxanium is used as the System font.
 To me, it looks like a modern computer font, and I hope it reminds you a bit of a shell.
-At least, if you know what a shell on a computer is – if you do, you're either old, or
+At least, if you know what a shell on a computer is---if you do, you're either old, or
 a developer. Welcome, brother!
 
 Philosopher, on the other hand, is a font with serifs. I find this type to be pleasant to

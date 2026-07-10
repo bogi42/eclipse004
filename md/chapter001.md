@@ -5,7 +5,7 @@ my feet. I have to throw myself once more unto the breach, but before I do that,
 a moment to digest the view. The colourful mix of different, architectural styles is still
 a wild clash, as always, but it is also something familiar.
 
-The first time I entered this city–nameless, back then–I was a stranger. I wasn't even
+The first time I entered this city---nameless, back then---I was a stranger. I wasn't even
 allowed to live here. Briefly, I wonder if that restriction is still there; plenty of new
 people have moved in since then. Back then, it was because I wasn't a part of the
 respective tutorial group, but that restriction should have long since been lifted.
@@ -21,7 +21,7 @@ beginning. A chance to prove to everyone that I belong.
 
 I can only hope to prove it once and for all.
 
-Being rejected by my fellow humans–and then again by the orcs on Samarund–has left
+Being rejected by my fellow humans---and then again by the orcs on Samarund---has left
 a bitter taste on my tongue. I can still feel the bitterness in me rising when I remember
 those times. With it comes a doubt, a devil that whispers to me that I will never belong.
 
@@ -34,7 +34,7 @@ the city,« Lyra grins at me. Then her expression turns serious. »The siege?«
 
 I nod. Seems it's about time to save my new home and prove that I'm a friend, not a foe.
 What better chance is there to do this than to play the guardian? My eye travels across
-the city and arrives at the wall–and the plain in front of it. For the first time since my
+the city and arrives at the wall---and the plain in front of it. For the first time since my
 return, I frown.
 
 There's a wild horde out there. The plain outside the city walls is packed with soldiers,
@@ -52,7 +52,7 @@ All the members of the council behind me gasp audibly for fear, and there's a lo
 as the gentleman next to the already unconscious woman loses his consciousness and puts his
 forehead to the table. I can't help but to smirk a little bit: During the early
 integration, I regularly lost consciousness. Of course, I never did so simply because
-I looked at a strong monster–I usually had better reasons. 
+I looked at a strong monster---I usually had better reasons. 
 
 I do wonder, though, what qualifies these people to have become members of the council.
 Personal strengths most certainly is not the reason. But having a look at those people,
@@ -97,7 +97,7 @@ I grip my scythe harder and move that way.
 
 The fighting at the wall is well underway. Surprisingly, there's a rather big hole gaping
 in the wall. Not gigantic, but big nonetheless. The fact it even exists is what surprises
-me: Who possesses enough power to burn a hole through these walls? Surprising–and scary.
+me: Who possesses enough power to burn a hole through these walls? Surprising---and scary.
 The hole is symmetrical, a perfect circle with a smooth edge. Not what I would have
 expected to see if someone had used explosions. And the edge is glowing in a deep,
 threatening black with a tint of purple. 
@@ -111,7 +111,7 @@ neck stand on end. Whatever it is, it's now top spot on my “list of things to 
 that's for sure.
 
 Which is partially because that the weapon did not simply punch a hole into the
-wall, no–there's no debris to be found anywhere. It's a pretty good indicator to the
+wall, no---there's no debris to be found anywhere. It's a pretty good indicator to the
 weapon’s power and shows that in probably annihilated that part of the wall. With
 a diameter of around four metres, which is astonishing in a terrifying way.
 
@@ -141,8 +141,8 @@ outside the wall, and those soldiers with their overlapping shields are generati
 a tunnel for new enemies to approach the gap in the wall.
 
 Looking at that lingering energy on the edge, I have an idea. It's probably a stupid one,
-but I activate Phantom Reclamation nonetheless. The skills hums through my veins, but
-seems to be irritated–I haven't selected a valid target for it. The skill doesn't want to
+but I activate Phantom Reclamation nonetheless. The skill hums through my veins, but
+seems to be irritated---I haven't selected a valid target for it. The skill doesn't want to
 do it, but I firmly point unto the edge of the breech.
 
 My skill tries to throw a tantrum, but I'm adamant about it. Finally, the resistance
@@ -162,5 +162,111 @@ Soul as it engages the invading energies. My eclipse energy wins the battle, but
 me in a bad state. I feel burned out and empty.
 
 Memo to myself: Don't do that again.
+
+Groaning, I get up. Then I'm in the midst of the fight, between all those soldiers. My
+health bar shows no damage, but my feelings disagree. I feel like minced meat. Maybe
+I should indulge in some battle therapy---yeah, that sounds about right. My Scythe has this
+nice, little effect where it gives me health, stamina and more, based on the damage
+I inflict. Like a weapon with a leech enchantment in some of those video games of old.
+
+The Scythe rips through the air, its edge whistling as it cuts air and flesh alike.
+There's definitely some energy flow going on there, yet I still feel empty. It's like I'm
+gorging on food and still growing hungrier. My HUD tells me I'm full of resources, but
+it feels distinctly different.
+
+The battle raging between the defenders and the attackers has already been more chaos than
+an organized fight, even before I stepped in. Me throwing my weight around does nothing to
+make the fight more organized, though---rather the opposite, as no one expects the Spanish
+inquisition. I mean, no one expects a grim reaper just bulldozing his way into the battle.
+
+Soon after, the attackers are dead, including all those last-minute additions that made it
+through the rapidly shrinking breech in the city wall. After my---more or less
+successful---usage of Phantom Reclamation, the hole has been repaired in record time. Almost
+a dozen enemies still managed to slip through before the hole was too small. 
+
+Well, almost a dozen. Eleven did make it through, but the hole caught the last one. Now,
+his legs are somewhere in the city wall, probably having been repurposed by the repair
+mechanism as wall material. The upper half of his body lies on our side. The dead and
+somehow condescending look from his eyes make me slightly shiver.
+
+All in all, I think that went rather well, especially for my first rescue mission.
+I closed the gap and saved the soldiers---hurray for me! Even the System seems to think so
+because it dishes out a rather hefty sum of experience points. Even more than I would have
+thought appropriate---maybe this is meant to incentivize the citizens to fight the
+shadows. That could be a smart idea.
+
+Except for me, it seems. Belatedly, I realize that this incentive works against me.
+I realize that as a sword blade buries itself into my side, coming from slightly behind
+me. Or rather: As a sword blade *tries* to bury itself into my site. It doesn't come far
+because of my physical resistance.
+
+Without thinking, I backhand my attacker and send him reeling across the ground. He
+crashes with a thug into the side of a building. Only then do I realize he's one of the
+defenders.
+
+A very brief moment of silence ensues, then I'm attacked from all sides by the defenders
+as they decide to concentrate on me. *What is going on here?* I need a second to recognize
+the look in their eyes---the fear, the rage, and the feeling of helplessness. They seem to
+think of me as the enemy. Don't they realize I just helped them out?
+
+Apparently, they're so afraid of me that they don't really register what's currently
+happening. I'm confused---should I talk to them and explain the situation? But to my
+experience, panicking people are bad listeners. A discussion might be a bad idea. I could
+try to use level suppression to force them to stop and listen to me, but that would only
+make me look even more terrifying.
+
+But then I remember that the dude with the Tesla coil bazooka is still out there. In fact,
+it's probably a small miracle he hasn't punched a fresh hole into the wall meanwhile.
+Judging by the obviously monstrous amount of lingering energy that weapon left on the edge
+of the hole, I can only guess that it needs to be charged before firing. That means
+I should pull him out of the game before he fires a second time---I'm not sure if I could
+close a second gap. Not sure that I would want to, if I'm honest.
+
+My decision to shadow-step unto the top of the wall is, therefore, not a retreat. I'm not
+escaping the messed up situation with the soldiers below me, no---I'm following my mission
+and set my eyes on the next goal that needs to be accomplished. Yes, this is not running
+away, it's strictly a tactical decision.
+
+I'm at the cusp of believing it myself.
+
+Anyway, I see that strange weapon and its glow. My suspicion appears to be correct because
+I can feel the shadow energy within that thing fluctuating even from this distance. The
+energy level in the weapon rises, reaching a crescendo. It seems there's a conductor
+within that stores an unholy amount of energy to release it all at once. It's probably the
+only way those soldiers can unleash so much energy at once.
+
+There's another cumulation of energy, this time in my hand. Then I let Umbral Judgement
+rip and tear to the enemy soldier holding the weapon. More than 30k of damage tear him
+apart, as well as many soldiers close to him. That's on them for stacking themselves like
+bricks in a wall. I ignore the messages about the experience points I'm gathering.
+
+There's a loud ruckus coming from behind me as people scream out in fear. I guess that
+display just made me look even more threatening. They *should* recognize I'm on their
+side, but their adrenaline addled brains seem unable to comprehend even that simple
+reality. Why is that? But then I look down myself, and for the first time, I realize that
+cloak of shadows wrapping myself, along with the scythe.
+
+Of course, they're afraid of me. I look like death incarnate.
+
+Well, the damage is done, and I don't think explaining would achieve anything useful. It's
+probably better to just get going, and doing it better the next. I retreat---no, that's
+not right. I'm strategically repositioning myself, just far away from this group of soldiers.
+While I do so, I let the scythe transform itself into a revolver, taking the cloak with
+it. And just like that, I look less frightening.
+
+Just to be certain, I should also refrain from using my shadow attuned spells, I guess, to
+not frighten the next group of defenders I'll meet. Although that massively limits my
+repertoire. My healing spells should be fine. Umbral Lance, probably, would be fine, too,
+but it only works with a bladed weapon. After losing my Kris, the only blade I have is
+stuck to the end of a scythe that makes me look like the grim reaper while wielding it, so
+that's out.
+
+My passives should all work, though, and my Shadow Decoy, while having shadow as part of
+its name, looks just like me. I think that would be fine, too. Shadow Infusion might be
+a bit problematic, but I can't switch it off, so there's no sense crying over it. All in
+all, my kit has shrunk immensely by placing the “no shadow” limiter on myself, but I still
+think I can manage myself, even this way.
+
+It's time for battle.
 
 [modeline]: vim: spelllang=en_gb,eclipse:

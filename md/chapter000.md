@@ -42,11 +42,11 @@ in the aftermath with Lyra who joins him and Garrik on a trip to Earth’s very 
 Dungeon. This precious resource has been tainted as well, and our heroes set out to
 cleanse the Dungeon.
 
-They manage to do just that, powering up on the way. But it’s far from smooth sailing
-– not only learns Alaric a bit more about those mysterious Kraken powers (and the fact
-that there is not only a System, but an Interface, too, and both are entwined), he also
-meets an entity that calls himself the Recordkeeper, who insists that Alaric is already
-dead.
+They manage to do just that, powering up on the way. But it’s far from smooth
+sailing---not only learns Alaric a bit more about those mysterious Kraken powers (and the
+fact that there is not only a System, but an Interface, too, and both are entwined), he
+also meets an entity that calls himself the Recordkeeper, who insists that Alaric is
+already dead.
 
 Since there is no rest for the wicked, cleaning the Mega Dungeon only leads to a small
 break for our heroes. The remaining (and surviving) population of Earth returns from their
@@ -76,7 +76,7 @@ Grimaldy family to create a lot of chaos.
 He also discovers that the Grimaldy family is in league wit the Adversary when he stumbles
 upon a machine designed to harvest the free will of its victims. Alaric soon learns that
 this free will and the Aether he uses for his own hacking skills are very interchangeable.
-They are both the same resource – something that the Recordkeeper keeps calling
+They are both the same resource---something that the Recordkeeper keeps calling
 *Authority*. 
 
 Alaric accidentally overloads his own System with the master load of harvested Authority,
@@ -89,7 +89,7 @@ Before that happens, though, Alaric and his somewhat shaky alliance with the Orc
 the Grimaldy family, thereby killing an Adversarial emissary and stealing his starship.
 (Alaric will later on install a mind clone of himself as the AI of this ship.)
 
-Together with Brok, he searches for Aury – and finds an ancient dragon named Samaretz who
+Together with Brok, he searches for Aury---and finds an ancient dragon named Samaretz who
 has taken a liking to Aury. She even trained the little rascal! And she sheds some light
 on Velarash and his nightelves. 
 

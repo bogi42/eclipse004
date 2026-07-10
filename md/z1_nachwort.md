@@ -4,7 +4,7 @@
 Thank you for your interest in my post apocalyptic world! I do hope you enjoyed your time
 with Alaric and the gang. 
 
-For me, this was a hard book to write. I almost shied away from the death of Lyra – but
+For me, this was a hard book to write. I almost shied away from the death of Lyra---but
 this is a harsh and brutal world, and Lyra’s death has always been a part of Alaric’s
 character arc. Don't hate me too much for it, please!
 
@@ -39,8 +39,8 @@ You can find out more about me on my homepage:
 ## A big thank you
 
 The biggest thanks of all go out to my family. They abide by me and my hobby, although my
-wife starts rolling her eyes again – that's my clue to finish this here.
+wife starts rolling her eyes again---that's my clue to finish this here.
 
-Thank **YOU** for reading – it means the world to me!
+Thank **YOU** for reading---it means the world to me!
 
 [modeline]: vim: spelllang=en_gb,eclipse:
