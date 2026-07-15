@@ -52,6 +52,11 @@ Shadow Switch
 Nether Shroud
 Equinox Reaver
 
+# Resources
+Mana
+Stamina
+Health
+
 # run commands with F2 
 :Gwr
 :mkspell! ~/.vim/spell/eclipse.utf-8.spl wortliste
